@@ -1,0 +1,7 @@
+{
+  //   "extends": "../../TypeScript-Getting-Started/",
+  "compilerOptions": {
+    "removeComments": true
+  },
+  "include": ["./**/*"]
+}
